@@ -1,3 +1,2 @@
-# SSS2026
-Esercitazione Strumenti di Sviluppo Software
-Questa è una modifica di prova
+# SSS2026 - Strumenti di Sviluppo Software
+Laboratorio di Git e Controllo di Versione - UniGe DIBRIS.
